@@ -1,5 +1,5 @@
 {
-	"name": "Naver News Comment Hider",
+	"name": "네이버 뉴스 댓글란 숨김 확장프로그램",
 	"manifest_version": 2,
 	"version": "0.1",
 	"content_scripts": [
